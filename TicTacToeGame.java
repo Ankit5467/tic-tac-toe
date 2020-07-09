@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 
  * @author Ankit Patel 
  * contact: apate158@stevens.edu
- * last updated: 7/7/20
+ * last updated: 7/9/20
  * 
  * This is a player vs cpu tic-tac-toe game. Enjoy!
  *
